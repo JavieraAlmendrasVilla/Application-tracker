@@ -23,9 +23,9 @@ It uses **LangChain + Ollama (local LLM)** and saves results automatically into 
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/your-username/job-description-extractor.git
-   cd job-description-extractor
-````
+   git clone https://github.com/JavieraAlmendrasVilla/Application-tracker.git
+   cd Application-tracker
+   ```
 
 2. **Set up a virtual environment (recommended)**
 
@@ -85,9 +85,3 @@ Example row in **applications.csv**:
 * [Gradio](https://www.gradio.app/)
 * Python 3.9+
 
----
-
-```
-
-Do you want me to also create a **requirements.txt** for you so users can install everything in one go?
-```
