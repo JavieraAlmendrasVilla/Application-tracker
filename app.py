@@ -52,8 +52,8 @@ Instructions:
 - Provide a 'company_summary' describing the company briefly.
 - Provide 'job_description_summary' describing the position only.
 - Separate skills into 'technical_skills' and 'soft_skills'.
-- Technical skills: programming, SQL, BI tools, analytics, data processing.
-- Soft skills: communication, teamwork, organization, client interaction.
+- Technical skills are tools or technologies required for the job, like programming languages, frameworks, etc.
+- Soft skills are interpersonal skills like communication, teamwork, etc.
 - Make sure skill lists are valid JSON arrays (lists), not strings.
 """
 
