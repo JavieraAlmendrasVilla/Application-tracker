@@ -23,9 +23,9 @@ It uses **LangChain + Ollama (local LLM)** and saves results automatically into 
 
 1. **Clone the repo**  
    ```bash
-   git clone [Application-tracker](https://github.com/JavieraAlmendrasVilla/Application-tracker.git)
+   git clone https://github.com/JavieraAlmendrasVilla/Application-tracker.git
    cd Application-tracker
-````
+   ```
 
 2. **Set up a virtual environment (recommended)**
 
