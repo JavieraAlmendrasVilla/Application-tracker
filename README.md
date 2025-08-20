@@ -85,9 +85,3 @@ Example row in **applications.csv**:
 * [Gradio](https://www.gradio.app/)
 * Python 3.9+
 
----
-
-```
-
-Do you want me to also create a **requirements.txt** for you so users can install everything in one go?
-```
