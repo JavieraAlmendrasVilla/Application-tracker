@@ -1,4 +1,4 @@
-````markdown
+
 # 📊 Job Description Extractor  
 
 This app extracts structured job posting information (position, company, skills, etc.) from unstructured job descriptions.  
