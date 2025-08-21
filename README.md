@@ -2,7 +2,9 @@
 # 📊 Job Description Extractor  
 
 This app extracts structured job posting information (position, company, skills, etc.) from unstructured job descriptions.  
-It uses **LangChain + Ollama (local LLM)** and saves results automatically into a CSV file.  
+It uses **LangChain + Ollama (local LLM)** and saves results automatically into a CSV file. 
+
+Try the app on Hugging Face 👉  ![App](https://huggingface.co/spaces/javiialmendras/ApplicationTracker)
 
 ![App](https://raw.githubusercontent.com/JavieraAlmendrasVilla/Application-tracker/main/Job%20Extractor%20App.jpg)
 
